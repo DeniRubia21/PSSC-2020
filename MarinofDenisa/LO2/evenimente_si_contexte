@@ -1,0 +1,16 @@
+1) Evenimentele din aplicatia StackOverflow SUNT:
+- Cerere de creare a unui cont (Basic/Bussiness)
+- Stergerea unui cont
+- Alegerea tag-urilor
+- Postarea intrebarilor
+- Modificarea unei intrebari
+- Stergerea unei intrebari
+- Oferirea de raspunsuri la alte intrebari
+- Aplicarea la job-uri
+- Primire notificari
+
+2)Contextele din aplicatia StackOverflow SUNT:
+- Account context
+- Questions context
+- Answering context
+- Job searching context
