@@ -1,0 +1,29 @@
+1 ) Workflow - Delimited context : " Context of the question " 
+	"ASK QUESTION"
+	
+	INPUT : Question form
+	OUTPUT : Question posted
+
+// step 1
+	 Do validate question form
+		if question form is not valid
+			then stop
+// step 2
+	Send a confirmation notification (e-mail about the question being posted)
+// step 3
+	return "Question posted" event
+
+2) Substep - Validate question form
+		INPUT : unvalidated question
+		OUTPUT : validated question
+		DEPENDENCIES : log in , category, formatting
+
+		- check if the user is logged in
+		- check if the category is filled and correct
+		- check if the question has code in it and if the code is formatted
+		- check if tags are selected for the question
+
+	if all the validations pass
+		then return queston posted
+	else
+		return the validation error(question rejected)
