@@ -1,0 +1,9 @@
+G:\Anul 4\sem1\PSSC\PSSC\Curs\PSSC\Curs-04\04 - Invarinats si Consistenta\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.deps.json
+G:\Anul 4\sem1\PSSC\PSSC\Curs\PSSC\Curs-04\04 - Invarinats si Consistenta\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.dll
+G:\Anul 4\sem1\PSSC\PSSC\Curs\PSSC\Curs-04\04 - Invarinats si Consistenta\Primitives.IO\bin\Debug\netstandard2.0\Primitives.IO.pdb
+G:\Anul 4\sem1\PSSC\PSSC\Curs\PSSC\Curs-04\04 - Invarinats si Consistenta\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csprojAssemblyReference.cache
+G:\Anul 4\sem1\PSSC\PSSC\Curs\PSSC\Curs-04\04 - Invarinats si Consistenta\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfoInputs.cache
+G:\Anul 4\sem1\PSSC\PSSC\Curs\PSSC\Curs-04\04 - Invarinats si Consistenta\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.AssemblyInfo.cs
+G:\Anul 4\sem1\PSSC\PSSC\Curs\PSSC\Curs-04\04 - Invarinats si Consistenta\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.csproj.CoreCompileInputs.cache
+G:\Anul 4\sem1\PSSC\PSSC\Curs\PSSC\Curs-04\04 - Invarinats si Consistenta\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.dll
+G:\Anul 4\sem1\PSSC\PSSC\Curs\PSSC\Curs-04\04 - Invarinats si Consistenta\Primitives.IO\obj\Debug\netstandard2.0\Primitives.IO.pdb

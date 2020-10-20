@@ -1,0 +1,2 @@
+obj\Debug\netcoreapp3.1\AskQuestionCmd.pkUzQMDf.generated.cs
+obj\Debug\netcoreapp3.1\AskQuestionResult.Ayja+hra.generated.cs
